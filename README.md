@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kodyvim
-- 👀 I’m interested in secure mobile and web development.
-- 🌱 I’m currently learning information security and ethical hacking.
-- ⚒️ Love to make the internet safer.
-- 📫 How to reach me at softdevcoder@gmail.com
+- 👀 I’m interested in web3 and blockchain security.
+- 🌱 I’m currently a warden @code4rena and verified smart contract auditor @soliditylabs.
+- ⚒️ Love to make the internet and the web3 ecosystem safer.
+- 📫 How to reach me softdevcoder@gmail.com | available for private smart contract audits.
 - 🐦 Twitter handle [@kodyvim_](https://twitter.com/kodyvim_)
